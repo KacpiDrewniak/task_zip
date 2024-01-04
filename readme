@@ -1,1 +1,14 @@
-test
+Cześć
+
+Mogłem również użyć zustanda który jest lżejszy ,ale zdecydowałem sie na redux toolkita,
+
+
+Po uruchomieniu może wystąpić błąd:
+
+__`ERROR in /Users/kacpi/node_modules/reselect/dist/reselect.d.ts 12:0-1
+
+[tsl] ERROR in /Users/kacpi/node_modules/reselect/dist/reselect.d.ts(12,1)
+TS1005: '?' expected.`__
+
+
+Zabrakło mi czasu aby go rozwiązać jest to coś nie tak z kompilatorem typescriptu
